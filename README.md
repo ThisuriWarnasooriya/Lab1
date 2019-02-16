@@ -1,3 +1,1 @@
-1. Create a Text box and a div or a span. Write a JavaScript to show the same text typed in
-textbox in the created div or span, it should update real time when user types in the
-textbox.
+1. Create a function as a variable (function expression) that prints ‘Hello World’ to console and another function which accepts a variable. The argument passed to the second function should be executed as a function inside the body. Call the second function passing the first function as the argument. Check the output.
